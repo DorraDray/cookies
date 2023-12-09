@@ -71,7 +71,7 @@
     text-align: center;
     padding: 2px;
     margin-bottom: -5px;
-    margin-right: 28px;
+    margin-right: 90px;
     /*margin: 20px;*/
     font-size: 23px;
     font-family: 'Merriweather', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -85,3 +85,11 @@
   form button{
     width: 70px;
   }
+  img{
+    width: 150px;
+    margin-left: 103px
+  }
+  img:active{
+    width: 125px;
+  }
+  
