@@ -69,7 +69,7 @@ setInterval(function () {
 
 
 function addGrandma(){
-    if(cookies>=1){
+    if(cookies>=10){
     Grandma = Grandma + 1;
     counterGrandma.textContent=Grandma;
     CookiesPerSecond=CookiesPerSecond+1;
